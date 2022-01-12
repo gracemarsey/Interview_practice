@@ -33,3 +33,7 @@
 - When jest scans the repo for test files, it will look for files with the suffix .test.js which means our test files need the suffix.
 - Let's add a new file called index.test.js
 - Look at add test example
+
+## Jest to expect
+
+- https://jestjs.io/docs/expect
